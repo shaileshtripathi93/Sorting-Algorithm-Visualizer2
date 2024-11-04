@@ -1,9 +1,6 @@
 # Sorting-Algorithm-Visualizer2
 
 
-
-# Sorting Algorithm Visualizer
-
 A **Sorting Algorithm Visualizer** built with HTML, CSS, and JavaScript. This tool demonstrates the process of sorting an array using various popular sorting algorithms with an intuitive UI, making it easy to see how each algorithm works step-by-step.
 
 ![Sorting Visualizer Demo](https://example.com/demo-image.png) <!-- Replace with actual screenshot URL if available -->
